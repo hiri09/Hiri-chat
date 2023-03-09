@@ -4,7 +4,7 @@ const socketIO=require("socket.io");
 const cors=require("cors");
 
 const app=express();
-const port= 4500;
+const port= process.env.PORT;
 
 const users=[{}];
 app.use(cors());
