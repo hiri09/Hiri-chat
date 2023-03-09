@@ -15,6 +15,7 @@
 }
 .JoinContainer > img{
     width: 10vmax;
+    border-radius: 50%;
 }
 .JoinContainer > h1{
     color: white;

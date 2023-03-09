@@ -18,7 +18,7 @@
     align-items: center;
     justify-content: space-between;
 }
-.header > h2{
+.header  h2 {
     color: white;
     margin: 2.5vmax;
     font-size: 1.5vmax;
@@ -36,7 +36,7 @@
     height: 70%;
 }
 .inputbox{
-    height: 15%;
+    height: 20%;
     display: flex;
 }
 #chatinput{
